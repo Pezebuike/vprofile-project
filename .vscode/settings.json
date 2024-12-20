@@ -25,6 +25,7 @@
         "spymemcached",
         "Visualpathit",
         "vpro",
+        "vproapp",
         "vprofile",
         "webmvc"
     ]
