@@ -2,11 +2,26 @@
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.compile.nullAnalysis.mode": "automatic",
     "cSpell.words": [
+        "amqp",
+        "dbcp",
         "Dskip",
+        "entitymanager",
+        "fileupload",
+        "gson",
+        "hamcrest",
+        "jacoco",
+        "javax",
+        "jstl",
+        "logback",
         "NEXUSIP",
         "nexuslogin",
         "NEXUSPORT",
+        "rabbitmq",
+        "springframework",
+        "spymemcached",
+        "Visualpathit",
         "vpro",
-        "vprofile"
+        "vprofile",
+        "webmvc"
     ]
 }
